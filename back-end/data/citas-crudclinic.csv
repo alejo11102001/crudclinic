@@ -29,14 +29,14 @@ Fecha,Hora,Motivo,Descripción,Ubicación,Estatus,Método
 2025-05-08,09:00,Consulta de rutina,Consulta de rutina - Observaciones adicionales: seguimiento necesario.,Sede Centro,Reprogramada,Transferencia
 2025-03-29,16:00,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Centro,Reprogramada,Tarjeta Débito
 2025-01-29,13:00,Dolor de cabeza persistente,Dolor de cabeza persistente - Observaciones adicionales: seguimiento necesario.,Sede Norte,Cancelada,Transferencia
-2025-03-05,16:00,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Norte,Cancelada,tarjeta débito
-2025-01-11,09:30,Dolor abdominal,Dolor abdominal - Observaciones adicionales: seguimiento necesario.,Sede Norte,Reprogramada,tarjeta débito
+2025-03-05,16:00,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Norte,Cancelada,Tarjeta Débito
+2025-01-11,09:30,Dolor abdominal,Dolor abdominal - Observaciones adicionales: seguimiento necesario.,Sede Norte,Reprogramada,Tarjeta Débito
 2025-01-31,14:00,Seguimiento pediátrico,Seguimiento pediátrico - Observaciones adicionales: seguimiento necesario.,Sede Centro,Confirmada,Tarjeta Débito
 2025-04-23,12:30,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Tarjeta Crédito
 2025-06-26,17:00,Examen dermatológico,Examen dermatológico - Observaciones adicionales: seguimiento necesario.,Sede Sur,Reprogramada,Efectivo
 2025-02-22,15:30,Examen dermatológico,Examen dermatológico - Observaciones adicionales: seguimiento necesario.,Sede Sur,Confirmada,Efectivo
-2025-06-29,10:00,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Centro,Cancelada,transferencia
-2025-05-28,16:30,Fiebre alta,Fiebre alta - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,tarjeta crédito
+2025-06-29,10:00,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Centro,Cancelada,Transferencia
+2025-05-28,16:30,Fiebre alta,Fiebre alta - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Tarjeta Crédito
 2025-06-09,11:30,Examen dermatológico,Examen dermatológico - Observaciones adicionales: seguimiento necesario.,Sede Norte,Confirmada,Tarjeta Crédito
 2025-06-20,14:00,Seguimiento pediátrico,Seguimiento pediátrico - Observaciones adicionales: seguimiento necesario.,Sede Centro,Pendiente,Tarjeta Débito
 2025-02-02,10:30,Dolor de cabeza persistente,Dolor de cabeza persistente - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Efectivo
@@ -47,7 +47,7 @@ Fecha,Hora,Motivo,Descripción,Ubicación,Estatus,Método
 2025-02-15,10:00,Chequeo post-operatorio,Chequeo post-operatorio - Observaciones adicionales: seguimiento necesario.,Sede Sur,Cancelada,Transferencia
 2025-04-27,11:30,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Sur,Reprogramada,Tarjeta Débito
 2025-01-29,09:00,Examen dermatológico,Examen dermatológico - Observaciones adicionales: seguimiento necesario.,Sede Sur,Confirmada,Transferencia
-2025-01-14,17:30,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Norte,Confirmada,tarjeta crédito
+2025-01-14,17:30,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Norte,Confirmada,Tarjeta Crédito
 2025-03-19,09:00,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Sur,Confirmada,Tarjeta Crédito
 2025-05-23,10:00,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Centro,Reprogramada,Efectivo
 2025-06-16,09:30,Chequeo post-operatorio,Chequeo post-operatorio - Observaciones adicionales: seguimiento necesario.,Sede Sur,Cancelada,Tarjeta Débito
@@ -55,7 +55,7 @@ Fecha,Hora,Motivo,Descripción,Ubicación,Estatus,Método
 2025-02-14,14:00,Control de medicación,Control de medicación - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Tarjeta Crédito
 2025-04-07,08:00,Seguimiento pediátrico,Seguimiento pediátrico - Observaciones adicionales: seguimiento necesario.,Sede Norte,Reprogramada,Transferencia
 2025-03-23,12:30,Seguimiento pediátrico,Seguimiento pediátrico - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Tarjeta Crédito
-2025-01-04,16:00,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Centro,Reprogramada,transferencia
+2025-01-04,16:00,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Centro,Reprogramada,Transferencia
 2025-05-04,08:00,Control de medicación,Control de medicación - Observaciones adicionales: seguimiento necesario.,Sede Sur,Cancelada,Efectivo
 2025-02-25,15:30,Chequeo post-operatorio,Chequeo post-operatorio - Observaciones adicionales: seguimiento necesario.,Sede Sur,Pendiente,Transferencia
 2025-03-19,14:30,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Centro,Pendiente,Efectivo
@@ -64,7 +64,7 @@ Fecha,Hora,Motivo,Descripción,Ubicación,Estatus,Método
 2025-01-02,13:30,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Centro,Pendiente,Transferencia
 2025-02-11,16:30,Control de medicación,Control de medicación - Observaciones adicionales: seguimiento necesario.,Sede Norte,Reprogramada,Tarjeta Débito
 2025-06-15,15:00,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Norte,Cancelada,Tarjeta Crédito
-2025-04-04,17:00,Consulta de rutina,Consulta de rutina - Observaciones adicionales: seguimiento necesario.,Sede Centro,Pendiente,transferencia
+2025-04-04,17:00,Consulta de rutina,Consulta de rutina - Observaciones adicionales: seguimiento necesario.,Sede Centro,Pendiente,Transferencia
 2025-01-16,17:00,Fiebre alta,Fiebre alta - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Efectivo
 2025-01-28,15:00,Fiebre alta,Fiebre alta - Observaciones adicionales: seguimiento necesario.,Sede Sur,Confirmada,Tarjeta Crédito
 2025-01-08,10:00,Consulta de rutina,Consulta de rutina - Observaciones adicionales: seguimiento necesario.,Sede Norte,Cancelada,Tarjeta Débito
@@ -75,7 +75,7 @@ Fecha,Hora,Motivo,Descripción,Ubicación,Estatus,Método
 2025-03-02,10:00,Consulta de rutina,Consulta de rutina - Observaciones adicionales: seguimiento necesario.,Sede Centro,Pendiente,Tarjeta Crédito
 2025-05-11,16:30,Chequeo anual,Chequeo anual - Observaciones adicionales: seguimiento necesario.,Sede Sur,Reprogramada,Tarjeta Crédito
 2025-03-20,08:30,Consulta de rutina,Consulta de rutina - Observaciones adicionales: seguimiento necesario.,Sede Sur,Pendiente,Transferencia
-2025-01-16,16:30,Examen dermatológico,Examen dermatológico - Observaciones adicionales: seguimiento necesario.,Sede Centro,Confirmada,tarjeta débito
+2025-01-16,16:30,Examen dermatológico,Examen dermatológico - Observaciones adicionales: seguimiento necesario.,Sede Centro,Confirmada,Tarjeta Débito
 2025-03-08,13:00,Dolor de cabeza persistente,Dolor de cabeza persistente - Observaciones adicionales: seguimiento necesario.,Sede Sur,Confirmada,Tarjeta Débito
 2025-01-13,14:00,Dolor de cabeza persistente,Dolor de cabeza persistente - Observaciones adicionales: seguimiento necesario.,Sede Sur,Pendiente,Tarjeta Crédito
 2025-03-11,12:00,Examen dermatológico,Examen dermatológico - Observaciones adicionales: seguimiento necesario.,Sede Sur,Confirmada,Tarjeta Débito
@@ -92,7 +92,7 @@ Fecha,Hora,Motivo,Descripción,Ubicación,Estatus,Método
 2025-01-16,11:30,Consulta de rutina,Consulta de rutina - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Tarjeta Débito
 2025-02-04,14:30,Control de medicación,Control de medicación - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Efectivo
 2025-01-20,09:00,Fiebre alta,Fiebre alta - Observaciones adicionales: seguimiento necesario.,Sede Sur,Reprogramada,Tarjeta Débito
-2025-06-11,11:00,Dolor abdominal,Dolor abdominal - Observaciones adicionales: seguimiento necesario.,Sede Sur,Reprogramada,tarjeta débito
+2025-06-11,11:00,Dolor abdominal,Dolor abdominal - Observaciones adicionales: seguimiento necesario.,Sede Sur,Reprogramada,Tarjeta Débito
 2025-06-14,13:30,Fiebre alta,Fiebre alta - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Tarjeta Crédito
 2025-06-05,13:30,Control de presión arterial,Control de presión arterial - Observaciones adicionales: seguimiento necesario.,Sede Norte,Pendiente,Efectivo
 2025-06-11,12:00,Fiebre alta,Fiebre alta - Observaciones adicionales: seguimiento necesario.,Sede Sur,Pendiente,Transferencia
